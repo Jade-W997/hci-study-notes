@@ -12,6 +12,8 @@ especially how technology can better support human decision-making and experienc
 - Basic data analysis practice
 - Simple Python scripts
 - Learning notes related to HCI and AI
+- To run the Python script, use:
+python simple_analysis.py
 
 # Future Plan
 - Add small prototype experiments
